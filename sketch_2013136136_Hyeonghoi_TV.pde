@@ -1,5 +1,5 @@
 background(0);
-size(300, 300);
+size(400, 300);
 smooth( );
 strokeWeight(5);
 stroke(255,255,255);
